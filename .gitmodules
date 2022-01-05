@@ -1,3 +1,4 @@
 [submodule "hive"]
 	path = hive
 	url = https://github.com/apache/hive
+  branch = branch-1.0.1
